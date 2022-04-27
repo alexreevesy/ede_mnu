@@ -1,0 +1,6 @@
+getdist
+matplotlib
+numpy
+scipy
+
+# -e Class_EDE_PT/ - make following CLASS_PT description
