@@ -1,7 +1,7 @@
 # ede_mnu
 
 ## Description
-The corresponding plotting code and chains for a project where an EDE model is explored in the context of a free neutrino mass. Arxiv link: 
+The corresponding plotting code and chains for a project where an EDE model is explored in the context of a free neutrino mass. Arxiv link: https://arxiv.org/abs/2207.01501
 
 Notebooks are as follows: 
 
